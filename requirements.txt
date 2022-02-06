@@ -1,0 +1,14 @@
+notebook
+pandas
+seaborn
+sklearn
+plot
+jupyterlab
+numpy
+nltk
+feedparser
+IMDbPY
+tensorflow
+imageio
+scikit-image
+bs4
