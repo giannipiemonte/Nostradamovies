@@ -10,7 +10,7 @@ From an 80 000 row dataset containing movie posters, movie synopsis and full IMD
 - [Resources](#resources)
 - [Setup](#setup)
 - [Usage](#usage)
-- [Support These Projects](#support-these-projects)
+- [Windows Support](#windows-support)
 
 ## Overview
 
@@ -19,7 +19,7 @@ From an 80 000 row dataset containing movie posters, movie synopsis and full IMD
 
 ## Setup
 
-# Windows Support
+## Windows Support
 
 Summary: On Windows, use `py` instead of `python3` for many of the examples in this documentation.
 
